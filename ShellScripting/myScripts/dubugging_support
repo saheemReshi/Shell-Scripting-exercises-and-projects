@@ -1,0 +1,2 @@
+set -x # to show each step in script execution
+set -e # to exit the script if a command fails

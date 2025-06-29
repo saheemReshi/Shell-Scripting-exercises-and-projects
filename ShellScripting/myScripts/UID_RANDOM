@@ -1,0 +1,7 @@
+saheem@pop-os:~/Desktop/Linux/ShellScripting/myScripts$ echo $RANDOM
+22288
+saheem@pop-os:~/Desktop/Linux/ShellScripting/myScripts$ echo $UID
+1000
+
+#FOR ROOT USER, UID IS ALWAYS 0
+# FOR RANDOM, ALWAYS GET RANDOM NO.  CAN USE TO MAKE RANDOM PASSWORD GENERATOR
